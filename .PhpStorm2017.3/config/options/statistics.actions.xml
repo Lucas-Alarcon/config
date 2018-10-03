@@ -1,0 +1,69 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="21" />
+      <entry action="$Cut" count="3" />
+      <entry action="$Delete" count="4" />
+      <entry action="$Paste" count="1" />
+      <entry action="$Redo" count="162" />
+      <entry action="$SelectAll" count="9" />
+      <entry action="$Undo" count="1605" />
+      <entry action="Annotate injection with comment" count="1" />
+      <entry action="AutoIndentLines" count="2" />
+      <entry action="CloseProject" count="2" />
+      <entry action="Convert string literal to HEREDOC/NOWDOC" count="2" />
+      <entry action="Convert var to let/const" count="10" />
+      <entry action="CopyElement" count="6" />
+      <entry action="Create File" count="1" />
+      <entry action="Create JavaScript Variable Or Property" count="2" />
+      <entry action="Edit options of reporter inspection" count="1" />
+      <entry action="Editor notification option" count="1" />
+      <entry action="EditorBackSpace" count="1522" />
+      <entry action="EditorChooseLookupItem" count="170" />
+      <entry action="EditorCopy" count="159" />
+      <entry action="EditorCut" count="60" />
+      <entry action="EditorDelete" count="10" />
+      <entry action="EditorDown" count="327" />
+      <entry action="EditorEnter" count="319" />
+      <entry action="EditorLeft" count="232" />
+      <entry action="EditorLineStart" count="1" />
+      <entry action="EditorPaste" count="370" />
+      <entry action="EditorRight" count="442" />
+      <entry action="EditorSplitLine" count="2" />
+      <entry action="EditorTab" count="34" />
+      <entry action="EditorToggleInsertState" count="6" />
+      <entry action="EditorUp" count="48" />
+      <entry action="Find" count="6" />
+      <entry action="Flip If" count="1" />
+      <entry action="Flip binary expression" count="1" />
+      <entry action="Generate" count="2" />
+      <entry action="GotoDeclaration" count="3" />
+      <entry action="HideAllWindows" count="4" />
+      <entry action="Import Constant" count="1" />
+      <entry action="Import Function" count="1" />
+      <entry action="JumpToLastWindow" count="5" />
+      <entry action="NewDir" count="1" />
+      <entry action="NewDirectoryProject" count="1" />
+      <entry action="NewElement" count="1" />
+      <entry action="NewFile" count="1" />
+      <entry action="NewJavaScriptFile" count="3" />
+      <entry action="OpenFile" count="1" />
+      <entry action="PhpNewFile" count="2" />
+      <entry action="PublishGroup.CompareLocalVsRemote" count="2" />
+      <entry action="PublishGroup.Download" count="12" />
+      <entry action="PublishGroup.SyncLocalVsRemote" count="1" />
+      <entry action="PublishGroup.Upload" count="4" />
+      <entry action="Remove extra closing tag" count="1" />
+      <entry action="Rename reference" count="1" />
+      <entry action="Replace quotes" count="1" />
+      <entry action="Replace with  === " count="1" />
+      <entry action="SaveAll" count="608" />
+      <entry action="ShowIntentionActions" count="36" />
+      <entry action="ShowSettings" count="3" />
+      <entry action="ToggleLineBreakpoint" count="5" />
+      <entry action="Typo_ Change to..." count="1" />
+      <entry action="WebDeployment.Configuration" count="3" />
+      <entry action="WebDeployment.ToggleAutoUpload" count="1" />
+    </counts>
+  </component>
+</application>

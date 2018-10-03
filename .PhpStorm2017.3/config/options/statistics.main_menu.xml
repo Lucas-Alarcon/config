@@ -1,0 +1,18 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Code -&gt; Auto-Indent Lines" count="2" />
+      <entry path="File -&gt; Close Project" count="2" />
+      <entry path="File -&gt; New Project..." count="1" />
+      <entry path="File -&gt; New..." count="1" />
+      <entry path="File -&gt; Open..." count="1" />
+      <entry path="File -&gt; Settings..." count="3" />
+      <entry path="Tools -&gt; Deployment -&gt; Automatic Upload" count="1" />
+      <entry path="Tools -&gt; Deployment -&gt; Compare Local File with Deployed Version" count="2" />
+      <entry path="Tools -&gt; Deployment -&gt; Configuration..." count="3" />
+      <entry path="Tools -&gt; Deployment -&gt; Download from Default Server" count="12" />
+      <entry path="Tools -&gt; Deployment -&gt; Sync Local Subtree with Deployed" count="1" />
+      <entry path="Tools -&gt; Deployment -&gt; Upload to Default Server" count="4" />
+    </counts>
+  </component>
+</application>

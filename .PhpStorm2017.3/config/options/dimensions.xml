@@ -1,0 +1,18 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="437" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="636" y="336" />
+    <location key="SettingsEditor.0.0.1920.1080" x="439" y="158" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1920.1080" x="771" y="401" />
+    <location key="com.jetbrains.plugins.webDeployment.ui.AdvancedOptionsDialog.0.0.1920.1080" x="788" y="338" />
+    <location key="ftp.server.browser.0.0.1920.1080" x="865" y="253" />
+    <location key="#Deployment.0.0.1920.1080" x="947" y="112" />
+    <location key="publish.login.0.0.1920.1080" x="830" y="421" />
+    <location key="#Inspections.0.0.1920.1080" x="592" y="203" />
+    <location key="NewPhpFileDialog.0.0.1920.1080" x="1275" y="453" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="690" y="268" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="740" y="276" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="773" y="353" />
+    <size key="GitCloneDialog.0.0.1920.1080" width="379" height="217" />
+  </component>
+</application>

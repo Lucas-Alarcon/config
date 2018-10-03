@@ -1,0 +1,11 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="3" />
+      <entry action="com.intellij.find.SearchTextArea$NewLineAction@unknown" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="7" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="3" />
+    </counts>
+  </component>
+</application>
